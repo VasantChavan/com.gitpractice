@@ -6,6 +6,15 @@ public class DemoTest {
 
 		
 		System.out.println("Test");
+		
+		int age =15;
+		if(age>=18) {
+			System.out.println("Cast the vote");
+		}
+		else
+		{
+			System.out.println("can't cast the vote");
+		}
 	}
 
 }
